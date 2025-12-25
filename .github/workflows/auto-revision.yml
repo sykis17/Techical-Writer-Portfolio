@@ -1,0 +1,25 @@
+name: Auto-Revision Row
+on:
+  push:
+    branches:
+      - main
+    paths-ignore:
+      - 'docs/revision-history.md' # Prevents an infinite loop
+
+jobs:
+  add-row:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Add Row to Table
+        run: |
+          DATE=$(date +'%Y-%m-%d')
+          NEW_ROW="| Pending | $DATE | [Add Description Here] | [Initials] |"
+          echo "$NEW_ROW" >> docs/revision-history.md
+      - name: Commit change
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add docs/revision-history.md
+          git commit -m "Auto-generated revision row"
+          git push
