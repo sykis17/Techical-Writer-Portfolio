@@ -1,34 +1,33 @@
-# CABIN ALTITUDE WARNING or Rapid Depressurization
+# <p style="text-align: center;">CABIN ALTITUDE WARNING or Rapid Depressurization</p>
 
-## Condition
-* **Cabin altitude warning** horn sounds or **CABIN ALTITUDE** light illuminates.
-* **AND/OR** A rapid decrease in cabin pressure occurs.
+## Condition: One or more of these occur:
+ * A cabin altitude exceedence
+ * In flight, the intermittent cabin altitude/configuration warning horn sounds or a CABIN ALTITUDE light (if installed and operative) illuminates.
 
-## Objective
-To verify the situation and, if necessary, perform an emergency descent to a safe altitude.
 
 ---
 
-### 1. Oxygen Masks and Regulators . . . . . . On, 100%
-### 2. Crew Communications . . . . . . . . . . . Establish
+### 1. Don oxygen masks and set regulators to 100%
+### 2. Establish crew communications
+### 3. Pressurization mode selector .......... MAN
+### 4. Outflow valve switch ........ Hold in CLOSE until the outflow VALVE indication shows fully closed
+### 5. **If** cabin altiude is **uncontrollable**:
+    Passenger signs ...................... ON
+    PASS OXYGEN switch ................... ON
+> **Go to the [Emergency Descent Checklist](emergency-descent.md) on page 0.1**
+<div style="text-align: center; margin-top: 20px;">
+    ■  ■  ■  ■
+</div>
 
-## Verification
-* **Check Cabin Altitude and Rate of Climb.**
-* If cabin altitude is uncontrollable:
+### 6. **If** cabin altitude is **controllable**
+    Continue manual operation to maintain correct cabin altitude.
+    When the cabin altitude is at or below 10,000 feet:
 
-> [!CAUTION]
-> **Go to [EMERGENCY DESCENT Checklist](emergency-descent.md)**
-> 
-> *Note: This link demonstrates cross-referencing between separate documentation modules.*
+        Oxygen masks may be removed
+
+### 7. Checklist Completed Except Deffered Items
+
+
 
 ---
-
-## 3. Pressurization Mode Selector . . . . . . . MAN
-## 4. Outflow Valve Control Switch . . . . . . . Hold in CLOSE 
-* Until the outflow valve indicates fully closed.
-
-### If cabin altitude continues to increase:
-* **Passenger Oxygen Switch . . . . . . . . . . ON**
-
----
-*Intentionally Blank*
+*Intentionally Left Blank*

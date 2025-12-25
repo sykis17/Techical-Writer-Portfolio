@@ -1,6 +1,25 @@
 site_name: My Docs
+theme:
+  name: material
 
 markdown_extensions:
   - admonition
   - pymdownx.details
   - pymdownx.superfences
+
+markdown_extensions:
+  - pymdownx.tasklist:
+      custom_checkbox: true
+
+nav:
+  - Home: index.md
+  - 'Emergency Procedures':
+      - 'Cabin Altitude': qrh-cabin-alt.md
+      - 'Emergency Descent': emergency-descent.md
+  - 'Maneuvers':
+      - 'Nose Low Recovery': qrh-nose-low-recovery.md
+  - 'Normal Procedures':
+      - 'Landing Checklist': defered-items-LDG.md
+  - 'Technical Guides':
+      - 'Environment Setup': technical-enviroment-setup-guide.md
+      - 'Portfolio Logic': portfolio-guide.md
