@@ -9,6 +9,7 @@
 
 ---
 
+| Pending | 2025-12-25 | [Add Description Here] | [Initials] |
 ## Active Page List
 *All pages below are current as of Revision 1.2.*
 
