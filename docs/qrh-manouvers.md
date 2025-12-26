@@ -22,7 +22,7 @@
 | 10. **Select LVL CHG** | 10. <br> • **Contact ATC** - Mayday Call <br> • **State new HDG** <br> • **Request QNH**<br> • **Request descent to 10,000ft MSA** <br> |
 | 11. **Select HDG SEL and turn approximately 45 degrees off existing HDG or track, terrain considerations permitting** | 11. **Turn ON Turnoff and Inboard Landing lights** |
 | 12. **Close thrust levers manually** | 12. **Set QNH** |
-| 13. **Select speed brake to Flight Detent** | 13. **Monitos TCAS and Descent** |
+| 13. **Select speed brake to Flight Detent** | 13. **Monitor TCAS and Descent** |
 | 14. **Select MCP SPD to VMO/MMO or limit speed as required** | 14. **Read Deprussurization and Emergency Descent QRH Checklist** |
 | 15. <br> • **Tidy up MCP - ALT** <br> • **Select QNH and 10,000ft MSA** <br> • **HDG - Note New HDG**<br> • **Speed - Ensure VMO/MMO** <br> | 15. **Anticipate turbulence and icing requiments** |
 | 16. **Respond to altitude calls** | 16. **Call every 10,000ft during descent** |

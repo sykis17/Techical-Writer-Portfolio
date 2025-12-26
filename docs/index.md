@@ -10,6 +10,10 @@
 </div>
 
 ---
+## 📄 Professional Resume
+For a detailed overview of my flight hours, employment history, and technical certifications:
+
+[**Download Full CV (PDF)**](assets/JesseMalmaCV2025.pdf){ .md-button .md-button--primary }
 
 ## 👨‍✈️ Executive Summary
 As a **B737 Pilot (3,000+ Flight Hours)** and Technical Writer, I bridge the gap between cockpit operational reality and high-integrity documentation. This portfolio showcases a **Docs-as-Code** ecosystem designed for 100% dispatch reliability.
