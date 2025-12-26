@@ -26,7 +26,7 @@ This project demonstrates organizational logic used in major airline Operations 
 ### **OM-B: Procedures & Maneuvers**
 * [**VNAV Approach Profile**](vnav.md): 2D profile integration based on RYR 2014 standards.
 * [**Nose Low Recovery**](qrh-nose-low-recovery.md): Complex UPRT task-sharing tables.
-* [**Emergency Descent**](emergency-descent.md): Procedural cross-referencing for high-workload phases.
+* [**Emergency Descent**](qrh-manouvers.md): Procedural cross-referencing for high-workload phases.
 * [**Landing Checklist**](defered-items-LDG.md): Single-source snippet implementation for fleet consistency.
 
 ### **OM-C: Route & Communications**
