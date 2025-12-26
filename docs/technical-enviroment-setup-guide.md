@@ -20,7 +20,7 @@ To maintain a consistent documentation environment, the following commands are u
 ### Create file hierarchy
 mkdocs.yml : The Configuration file
 
-docs/index.md : Thee project landing page
+docs/index.md : The project landing page
 
 docs/ : The directory containing all source Markdown files
 
@@ -34,32 +34,24 @@ docs/ : The directory containing all source Markdown files
 
 ### Perform the initial upload
 `git push -u origin main`
+## 3. Deployment SOP (Sending changes to GitHub)
+
+### Phase 1: Pre-Deployment Verification
+1.  **Edit:** Modify `.md` source files.
+2.  **Audit Trail:** Update `docs/revision-history.md` with the new Revision Number/Date.
+3.  **Local Check:** Run `mkdocs serve` to verify formatting and hyperlinks.
+
+### Phase 2: Version Control
+1.  **Status Check:** `git status` (Confirm only intended files are modified).
+2.  **Staging:** `git add .` (Stage for commit).
+3.  **Log Entry:** `git commit -m "Rev X.X: [Brief description]"`
+
+### Phase 3: Publication
+1.  **Sync:** `git push` (Upload source to repository).
+2.  **Live Deploy:** `mkdocs gh-deploy` (Update the production website).
+3.  **Final Clean-up:** `git status` (Verify 'working tree clean').
 
 
-## 3. How to send changes to GitHub
-
-### 1. Verification
-#### Make your edits in the .md files.
-#### CRITICAL: Update docs/revision-history.md with the new Revision Number and Date.
-#### Run `mkdocs serve`on terminal to be able to check changes locally.
-
-### 2. Stage Changes
-
-#### `git status` To confirm modified files.
-#### `git add .` Stage all changes for Upload.
-
-### 3. Commit
-
-#### `git commit -m "Brief description of the update"` (e.g., "Rev 1.3: Update Winter Ops Checklist)
-
-### 4. Push to GitHub
-#### `git push` Send your source code to the GitHub repository.
-
-### 5. Deploy
-#### `mkdocs gh-deploy` Updates the actual live website.
-
-### 6. Final Cross-Check
-#### `git status` Should report "Your branch is up to date" and "nothing to commit, working tree clean". 
 
 ## 4. Local Development (Live Preview)
 `mkdocs serve`

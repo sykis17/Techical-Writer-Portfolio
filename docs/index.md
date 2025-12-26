@@ -1,40 +1,47 @@
 <div style="text-align: center; margin-top: 50px;">
-  <h1>TECHNICAL WRITER PORTFOLIO</h1>
-  <h2>Flight Operations & QRH Standards</h2>
+  <h1 style="font-weight: 800; letter-spacing: 2px;">TECHNICAL WRITER PORTFOLIO</h1>
+  <h2 style="color: #3f51b5;">Flight Operations & Manual Standards</h2>
   <br>
-  <h3>REVISION: 1.2</h3>
-  <h3>DATE: 25 DEC 2025</h3>
-  <p>Prepared for: Flight Operations Documentation Review</p>
+  <div style="border: 2px solid #3f51b5; display: inline-block; padding: 10px 20px;">
+    <h3 style="margin: 0;">REVISION: 1.2</h3>
+    <h3 style="margin: 0;">EFFECTIVE DATE: 26 DEC 2025</h3>
+  </div>
+  <p style="margin-top: 20px; font-weight: bold;">Fleet Standard: B737-800</p>
 </div>
 
 ---
 
-Welcome. This portfolio demonstrates the integration of **Subject Matter Expertise (SME)** with **Docs-as-Code** methodologies. 
-
-As a B737 Pilot with over 3,000 flight hours, I specialize in translating complex manufacturer data (Boeing/Ryanair) into clear, version-controlled technical documentation.
-
----
-
-## 🛠 Project Modules
-Select a module below to view the technical implementation:
-
-### ✈️ Operational Procedures
-* [**Cabin Altitude Uncontrollable**](qrh-cabin-alt.md): Emergency recall items with high-visibility formatting.
-* [**Emergency Descent**](emergency-descent.md): Procedural cross-referencing and rapid-access links.
-* [**Nose Low Recovery**](qrh-nose-low-recovery.md): Complex PF/PM task-sharing using HTML table structures.
-* [**Landing Checklist (Deferred Items)**](defered-items-LDG.md): Interactive EFB-style checklist with task validation.
-
-### 💻 Technical Environment
-* [**Setup Guide**](technical-enviroment-setup-guide.md): The logic behind the workspace initialization.
-* [**Portfolio Engineering**](portfolio-guide.md): How this documentation engine was built.
+## 👨‍✈️ Executive Summary
+As a **B737 Pilot (3,000+ Flight Hours)** and Technical Writer, I bridge the gap between cockpit operational reality and high-integrity documentation. This portfolio showcases a **Docs-as-Code** ecosystem designed for 100% dispatch reliability.
 
 ---
 
-## 🎯 Technical Skillset
-| Skill | Application |
+## 📂 Manual Architecture
+This project demonstrates organizational logic used in major airline Operations Manuals (OM):
+
+### **OM-A: General Policy & Compliance**
+* [**Manual Requirements**](manualr.md): Standardizing manual content against Air Law.
+* [**NITS Briefing**](nits.md) & [**PIOSEE**](piosee.md): High-impact emergency briefing templates.
+
+### **OM-B: Procedures & Maneuvers**
+* [**VNAV Approach Profile**](vnav.md): 2D profile integration based on RYR 2014 standards.
+* [**Nose Low Recovery**](qrh-nose-low-recovery.md): Complex UPRT task-sharing tables.
+* [**Emergency Descent**](emergency-descent.md): Procedural cross-referencing for high-workload phases.
+* [**Landing Checklist**](defered-items-LDG.md): Single-source snippet implementation for fleet consistency.
+
+### **OM-C: Route & Communications**
+* [**HF Radio & Entertainment**](hf.md): Long-haul communication and frequency management.
+
+### **OM-D: Training & Software Engineering**
+* [**Portfolio Logic**](portfolio-guide.md): The engineering behind this documentation engine.
+* [**Revision History**](revision-history.md): Full traceability of manual changes.
+
+---
+
+## 🛠 Technical Skillset
+| Capability | Implementation |
 | :--- | :--- |
-| **Documentation** | Markdown, MkDocs, Material Theme |
-| **Version Control** | Git, GitHub (Branch management/PRs) |
-| **Aviation Logic** | QRH/FCOM data interpretation (RYR 2014) |
-| **Compliance** | Standardizing "Warning/Caution/Note" logic |
-
+| **Docs-as-Code** | MkDocs (Material Theme) / YAML |
+| **Integrity** | Pymdownx Snippets (Single-Source of Truth) |
+| **Graphics** | 2D Flight Profile Mapping & Logic Flowcharts |
+| **Safety** | Warning/Caution/Note (WCN) Hierarchy Management |

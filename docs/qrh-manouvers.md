@@ -35,6 +35,8 @@
 | 22. **Review fuel requirements and coordinate intensions with ATC** | 22. |
 | 23. **Plan for depressurized Flight, Descent, Approach and Landing and any medical requirments** | 23. |
 
+*End of Procedure*
+
 <p style="font-size: 0.8em; color: gray;">
 Source: Derived from Boeing 737 Quick Reference Handbook (QRH) Rev 2014. For training purposes only.
 </p>

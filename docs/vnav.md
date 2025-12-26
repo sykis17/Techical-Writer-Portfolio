@@ -4,6 +4,6 @@ This profile outlines the standard procedures for a Constant Descent Final Appro
 
 ---
 
-## 2.1 Profile Diagram
+## Profile Diagram
 ![VNAV Approach Profile](docs/assets/diagrams/VNAVCHART.png)
 
