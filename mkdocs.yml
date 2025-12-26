@@ -9,9 +9,11 @@ theme:
     - content.update.time
     - content.action.edit
     - content.action.view
-    - navigation.tracking
+    - navigation.tabs
+    - content.code.copy
 extra_javascript:
     - https://cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.js
+    - js/mermaid-init.js
 
 markdown_extensions:
   - admonition
