@@ -16,3 +16,7 @@
 
 *Intentionally Left Blank*
 
+---
+<p style="font-size: 0.8em; color: gray;">
+Source: Derived from Boeing 737 Quick Reference Handbook (QRH) Rev 2014. For training purposes only.
+</p>

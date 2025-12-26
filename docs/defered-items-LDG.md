@@ -18,6 +18,8 @@
 ■ ■ ■ ■
 </div>
 
-<div style="text-align: right; font-size: 0.8em; color: gray;">
-*Source: B737 QRH (RYR 2014)*
-</div>
+
+---
+<p style="font-size: 0.8em; color: gray;">
+Source: Derived from Boeing 737 Quick Reference Handbook (QRH) Rev 2014. For training purposes only.
+</p>

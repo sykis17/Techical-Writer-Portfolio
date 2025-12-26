@@ -34,3 +34,9 @@
 
 ### <b>WARNING: * Excessive use of pitch trim or rudder may aggravate an upset situation or may result in loss of control and/or high structural loads.</b>
 ---------
+
+
+---
+<p style="font-size: 0.8em; color: gray;">
+Source: Derived from Boeing 737 Quick Reference Handbook (QRH) Rev 2014. For training purposes only.
+</p>

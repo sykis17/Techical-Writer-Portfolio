@@ -20,5 +20,12 @@ To view this portfolio locally:
    `mkdocs serve`
 
 
+## User guide
+### In the terminal:
+#### `git pull` To get information from GitHub.
+#### `git commit -m "Revision information"` Sets up the files.
+#### `git push` Sends the files.
+#### `mkdocs gh-deploy` Updates the website.
+
 
 ---

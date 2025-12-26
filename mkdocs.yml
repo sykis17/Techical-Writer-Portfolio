@@ -49,6 +49,8 @@ nav:
   - 'Technical Guides':
       - 'Environment Setup': technical-enviroment-setup-guide.md
       - 'Portfolio Logic': portfolio-guide.md
+      - 'Electrical System': elec.md
+      - 'Testi': test.md
 
 theme:
   name: material
