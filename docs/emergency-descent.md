@@ -16,6 +16,12 @@
 
 *Intentionally Left Blank*
 
+## Landing Checklist (Referenced)
+!!! info "Standard Procedure"
+    The following checklist is mirrored from the defered-items-LDG.md
+    
+    --8<-- "docs/defered-items-LDG.md"
+    
 ---
 <p style="font-size: 0.8em; color: gray;">
 Source: Derived from Boeing 737 Quick Reference Handbook (QRH) Rev 2014. For training purposes only.
