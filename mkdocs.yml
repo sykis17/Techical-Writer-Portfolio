@@ -70,6 +70,7 @@ nav:
         - 'Testi': test.md
     - 'CRM Training':
         - 'Busy Jim Video': busyjim.md
+        - 'TOP GUN': TOP GUN.md
 
 theme:
   name: material
