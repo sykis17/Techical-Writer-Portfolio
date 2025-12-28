@@ -47,6 +47,7 @@ nav:
     - 'NITS Briefing': nits.md
     - 'PIOSEE Briefing': piosee.md
     - 'Manual Requirements': manualr.md
+    - 'List of Terms': glossary.md
   - 'OM-B':
     - 'Normal Procedures':
         - 'Vnav Approach': vnav.md
