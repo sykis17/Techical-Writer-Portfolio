@@ -29,12 +29,3 @@
 | :--- | :--- | :--- | :--- |
 | 1.5 | 2025-12-27 | Integration of OM-C Oceanic Plotting Symbols | [JP] || Pending | 2025-12-26 | [Description] | [Initials] |
 | Pending | 2025-12-27 | [Description] | [Initials] |
-<<<<<<< HEAD
-=======
-| Pending | 2025-12-27 | [Description] | [Initials] |
-| Pending | 2025-12-28 | [Description] | [Initials] |
-| Pending | 2025-12-28 | [Description] | [Initials] |
-| Pending | 2025-12-28 | [Description] | [Initials] |
-| Pending | 2025-12-28 | [Description] | [Initials] |
-| Pending | 2025-12-28 | [Description] | [Initials] |
->>>>>>> a7bcf2beb2cc4944b00e71c494ec6c3f530758dd
