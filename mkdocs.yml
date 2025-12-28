@@ -65,6 +65,8 @@ nav:
         - 'Portfolio Logic': portfolio-guide.md
         - 'Electrical System': elec.md
         - 'Testi': test.md
+    - 'CRM Training':
+        - 'Busy Jim Video': busyjim.md
 
 theme:
   name: material
