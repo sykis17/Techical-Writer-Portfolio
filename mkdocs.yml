@@ -46,7 +46,7 @@ plugins:
 
 nav:
   - Home: index.md
-  - CV Viewer: cv-page.md
+#  - CV Viewer: cv-page.md
   - 'OM-A':
     - 'NITS Briefing': nits.md
     - 'PIOSEE Briefing': piosee.md

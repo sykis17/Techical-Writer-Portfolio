@@ -10,11 +10,12 @@
 </div>
 
 ---
+
 <center>
     <div style="margin: 20px 0;">
-        <a href="cv-page.md/" style="text-decoration: none;">
-            <button style="background-color: #3f51b5; color: white; padding: 15px 30px; border: none; border-radius: 6px; cursor: pointer; font-weight: bold;">
-                👁️ VIEW CV PORTFOLIO
+        <a href="files/assets/jesse_malma_cv.pdf" download="Jesse_Malma_CV.pdf" style="text-decoration: none;">
+            <button style="background-color: #3f51b5; color: white; padding: 12px 28px; border: none; border-radius: 6px; cursor: pointer; font-weight: bold; display: inline-flex; align-items: center; gap: 10px;">
+                <span>📥</span> DOWNLOAD CV (PDF)
             </button>
         </a>
     </div>
