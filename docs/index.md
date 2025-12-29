@@ -49,7 +49,7 @@ This project demonstrates organizational logic used in major airline Operations 
 * [**Landing Checklist**](defered-items-LDG.md): Single-source snippet implementation for fleet consistency.
 
 ### **OM-C: Route & Communications**
-* [**HF Radio & Entertainment**](hf.md): Long-haul communication and frequency management.
+* [**HF Radio Frequencies**](hf.md): Long-haul communication and frequency management.
 
 ### **OM-D: Training & Software Engineering**
 * [**Portfolio Logic**](portfolio-guide.md): The engineering behind this documentation engine.
