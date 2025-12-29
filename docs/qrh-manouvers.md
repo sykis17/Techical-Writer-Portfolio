@@ -3,7 +3,7 @@
 # EMERGENCY DESCENT MANOUVER
 
 ## Rapid Depressurization (RYR)
-**Note:** Use of the autopilot is reccomended
+**Note:** Use of the autopilot is recommended
 
 ---
 
