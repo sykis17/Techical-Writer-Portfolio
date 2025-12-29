@@ -63,7 +63,7 @@ nav:
         - 'Nose Low Recovery': qrh-nose-low-recovery.md
         - 'Emergency Descent Manouver': qrh-manouvers.md
     - 'FCOM 2':
-        - 'Electrical System': elec.md
+        - '6. Electrical System': elec.md
   - 'OM-C':
     - 'HF Radio & Entertainment Frequencies': hf.md
   - 'OM-D':
@@ -75,6 +75,7 @@ nav:
     - 'CRM Training':
         - 'Busy Jim Video': busyjim.md
         - 'TOP GUN': TOPGUN.md
+        - 'Drone Video': screenrecording.md
 
 extra:
   last_updated: true  # This shows the user when the manual was last changed
