@@ -74,6 +74,7 @@ nav:
     - 'CRM Training':
         - 'Busy Jim Video': busyjim.md
         - 'TOP GUN': TOPGUN.md
+    - CV Viewer: cv-viewer.md
 
 extra:
   last_updated: true  # This shows the user when the manual was last changed

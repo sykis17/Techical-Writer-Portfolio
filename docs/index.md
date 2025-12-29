@@ -13,13 +13,14 @@
 ## 📄 Professional Curriculum Vitae
 *Click below to view the full CV or save a copy for your records.*
 
-<div style="margin-top: 30px;">
-    <h3>📄 Live Preview</h3>
-    <iframe src="https://sykis17.github.io/Technical-Writer-Portfolio/files/assets/jesse_malma_cv.pdf" width="100%" height="600px" style="border: 1px solid #ccc; border-radius: 8px;">
-        <p>Your browser does not support PDF previews. 
-        <a href="files/assets/jesse_malma_cv.pdf">Click here to download instead.</a></p>
-    </iframe>
-</div>
+# Curriculum Vitae
+
+<a href="cv-viewer.md/" style="text-decoration: none;">
+    <button style="background-color: #3f51b5; color: white; padding: 12px 24px; border: none; border-radius: 4px; cursor: pointer; font-weight: bold;">
+        👁️ View CV
+    </button>
+</a>
+
 
   <a href="files/assets/jesse_malma_cv.pdf" download="Jesse_Malma_CV.pdf" style="text-decoration: none;">
         <button style="background-color: #ffffff; color: #3f51b5; padding: 12px 24px; border: 2px solid #3f51b5; border-radius: 4px; cursor: pointer; font-weight: bold; display: flex; align-items: center; gap: 8px;">
