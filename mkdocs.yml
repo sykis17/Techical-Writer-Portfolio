@@ -11,6 +11,8 @@ theme:
     - content.action.view
     - navigation.tabs
     - content.code.copy
+    - navigation.tracking
+    - navigation.sections
 extra_javascript:
     - https://cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.js
     - js/mermaid-init.js
@@ -18,6 +20,7 @@ extra_javascript:
     - https://unpkg.com/mermaid/dist/mermaid.min.js
 
 markdown_extensions:
+  - attr_list
   - admonition
   - pymdownx.details
   - pymdownx.superfences:
@@ -71,14 +74,6 @@ nav:
     - 'CRM Training':
         - 'Busy Jim Video': busyjim.md
         - 'TOP GUN': TOPGUN.md
-
-theme:
-  name: material
-  features:
-    - content.action.edit
-    - content.action.view
-    - navigation.tracking
-    - navigation.sections
 
 extra:
   last_updated: true  # This shows the user when the manual was last changed

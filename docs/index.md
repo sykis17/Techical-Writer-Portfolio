@@ -13,15 +13,19 @@
 ## 📄 Professional Curriculum Vitae
 *Click below to view the full CV or save a copy for your records.*
 
-<a href="files/assets/jesse_malma_cv.pdf" target="_blank">
-  <button style="background-color: #007bff; color: white; padding: 10px 20px; border: none; border-radius: 5px; cursor: pointer;">
-    View CV in Browser
-  </button>
-</a>
+<div style="display: flex; gap: 10px; margin-top: 20px;">
+    <a href="files/assets/jesse_malma_cv.pdf" target="_blank" style="text-decoration: none;">
+        <button style="background-color: #3f51b5; color: white; padding: 12px 24px; border: none; border-radius: 4px; cursor: pointer; font-weight: bold; display: flex; align-items: center; gap: 8px;">
+            <span>👁️</span> View CV
+        </button>
+    </a>
 
----
-
-[📥 Download PDF version](files/assets/jesse_malma_cv.pdf)
+  <a href="files/assets/jesse_malma_cv.pdf" download="Jesse_Malma_CV.pdf" style="text-decoration: none;">
+        <button style="background-color: #ffffff; color: #3f51b5; padding: 12px 24px; border: 2px solid #3f51b5; border-radius: 4px; cursor: pointer; font-weight: bold; display: flex; align-items: center; gap: 8px;">
+            <span>📥</span> Download PDF
+        </button>
+    </a>
+</div>
 
 ## 👨‍✈️ Executive Summary
 As a **B737 Pilot (3,000+ Flight Hours)** and Technical Writer, I bridge the gap between cockpit operational reality and high-integrity documentation. This portfolio showcases a **Docs-as-Code** ecosystem designed for 100% dispatch reliability.
