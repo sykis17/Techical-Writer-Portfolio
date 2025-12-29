@@ -1,6 +1,6 @@
 --8<-- "includes/revision_header.md"
 
-# List HF Radio Frequencies
+# List of HF Radio Frequencies
 
 | Station / Service | Frequency (kHz) | Location | Notes |
 | :--- | :--- | :--- | :---|
