@@ -18,7 +18,6 @@ This manual is maintained in accordance with **§121.135**. Each page listed bel
 | Page Name | File Path | Current Rev | Effective Date |
 |:---|:---|:---:|:---|
 | **Home / Introduction** | `index.md` | 1.4 | 29 DEC 2025 |
-| **Professional CV** | `cv-page.md` | 1.4 | 29 DEC 2025 |
 | **VNAV Approach Profile** | `vnav.md` | 1.4 | 29 DEC 2025 |
 | **Operations Tools** | `time.md` | 1.4 | 29 DEC 2025 |
 | **List of Effective Pages** | `lep.md` | 1.4 | 29 DEC 2025 |
