@@ -1,3 +1,5 @@
+--8<-- "includes/revision_header.md"
+
 # NITS Briefing (Emergency Communication)
 
 The NITS briefing is the standardized method for the Captain to communicate an emergency or non-normal situation to the Senior Cabin Crew Member (SCCM).

@@ -1,3 +1,5 @@
+--8<-- "includes/revision_header.md"
+
 # 📖 Technical & Aviation Glossary
 
 This page defines the specialized terminology and communication standards used throughout this portfolio and within flight operations environments.

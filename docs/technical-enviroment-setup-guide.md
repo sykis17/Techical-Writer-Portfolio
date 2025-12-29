@@ -1,3 +1,5 @@
+--8<-- "includes/revision_header.md"
+
 # Technical Enviroment Setup
 
 To maintain a consistent documentation environment, the following commands are used to initialize the Docs-as-Code workspace.

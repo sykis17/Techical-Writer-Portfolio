@@ -1,3 +1,5 @@
+--8<-- "includes/revision_header.md"
+
 # PIOSEE Decision Making Model
 
 The PIOSEE model provides a structured framework to manage complex non-normal situations, preventing the crew from rushing into an incorrect course of action.

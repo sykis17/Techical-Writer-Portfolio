@@ -1,3 +1,5 @@
+--8<-- "includes/revision_header.md"
+
 # Operations & Time Management
 
 This tool provides synchronized time tracking for global operations. Use the Chronometer to track specific flight phases or training intervals.

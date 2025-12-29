@@ -1,3 +1,5 @@
+--8<-- "includes/revision_header.md"
+
 # EMERGENCY DESCENT MANOUVER
 
 ## Rapid Depressurization (RYR)

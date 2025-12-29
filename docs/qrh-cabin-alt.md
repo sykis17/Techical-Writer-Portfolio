@@ -1,3 +1,5 @@
+--8<-- "includes/revision_header.md"
+
 # <p style="text-align: center;">CABIN ALTITUDE WARNING or Rapid Depressurization</p>
 
 ## Condition: One or more of these occur:
