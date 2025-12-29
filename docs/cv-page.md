@@ -8,6 +8,7 @@
     </a>
 </center>
 
-<iframe src="https://sykis17.github.io/Technical-Writer-Portfolio/files/assets/jesse_malma_cv.pdf" width="100%" height="1100px" style="border: 2px solid #3f51b5; border-radius: 8px;">
-    <p>Your browser does not support PDFs. <a href="https://sykis17.github.io/Technical-Writer-Portfolio/files/assets/jesse_malma_cv.pdf">Click here to download.</a></p>
-</iframe>
+<object data="../files/assets/jesse_malma_cv.pdf" type="application/pdf" width="100%" height="1100px" style="border: 2px solid #3f51b5; border-radius: 8px;">
+    <embed src="../files/assets/jesse_malma_cv.pdf" type="application/pdf" />
+    <p>This browser does not support inline PDFs. Please use the download button above.</p>
+</object>
