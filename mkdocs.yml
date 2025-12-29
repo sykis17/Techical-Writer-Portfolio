@@ -46,6 +46,7 @@ plugins:
 
 nav:
   - Home: index.md
+  - CV Viewer: cv-page.md
   - 'OM-A':
     - 'NITS Briefing': nits.md
     - 'PIOSEE Briefing': piosee.md
@@ -74,7 +75,6 @@ nav:
     - 'CRM Training':
         - 'Busy Jim Video': busyjim.md
         - 'TOP GUN': TOPGUN.md
-    - CV Viewer: cv-viewer.md
 
 extra:
   last_updated: true  # This shows the user when the manual was last changed

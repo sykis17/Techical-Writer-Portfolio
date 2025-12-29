@@ -11,17 +11,15 @@
 
 ---
 <center>
-    <div style="margin: 30px 0;">
-        <a href="cv-viewer.md/" style="text-decoration: none;">
-            <button style="background-color: #3f51b5; color: white; padding: 15px 30px; border: none; border-radius: 6px; cursor: pointer; font-size: 1.1em; font-weight: bold; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
-                👁️ VIEW CURRICULUM VITAE
+    <div style="margin: 20px 0;">
+        <a href="cv-page.md/" style="text-decoration: none;">
+            <button style="background-color: #3f51b5; color: white; padding: 15px 30px; border: none; border-radius: 6px; cursor: pointer; font-weight: bold;">
+                👁️ VIEW CV PORTFOLIO
             </button>
         </a>
-        <p><small>Optimized for Web & Mobile Viewing</small></p>
     </div>
 </center>
 
-[📥 Download PDF version](../files/assets/jesse_malma_cv.pdf)
 
 
 ## 👨‍✈️ Executive Summary
