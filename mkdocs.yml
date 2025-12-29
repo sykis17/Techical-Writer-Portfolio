@@ -75,6 +75,8 @@ nav:
     - 'CRM Training':
         - 'Busy Jim Video': busyjim.md
         - 'TOP GUN': TOPGUN.md
+    - 'OPS Tools':
+      - World Clock: time.md
 
 
 extra:
