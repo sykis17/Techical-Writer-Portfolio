@@ -1,3 +1,5 @@
+--8<-- "includes/revision_header.md"
+
 # <p style="text-align: center;">Emergency Descent</p>
 
 ## Condition: One or more of these occur:

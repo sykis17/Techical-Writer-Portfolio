@@ -1,3 +1,5 @@
+--8<-- "includes/revision_header.md"
+
 # Human Factors & CRM Training
 
 Effective Crew Resource Management (CRM) is the cornerstone of flight safety. This module analyzes classic "Negative CRM" behaviors to establish standard corrective actions for multi-crew environments.
